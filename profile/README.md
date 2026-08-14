@@ -36,4 +36,4 @@ Three books written and published in full, free to read, and built into the cons
 
 Start with the [README](https://github.com/OpenFrayApp/openfray/blob/main/README.md) in the openfray repo; issues and ideas go to the [console's tracker](https://github.com/OpenFrayApp/console/issues). The code is AGPL-3.0, and game content is honored under each source's own license.
 
-<sub>Compatible with 5e (2014) and 5.5e (2024). Not affiliated with or endorsed by Wizards of the Coast.</sub>
+<sub>Compatible with 5.5e (2024) and 5e (2014). Not affiliated with or endorsed by Wizards of the Coast.</sub>
